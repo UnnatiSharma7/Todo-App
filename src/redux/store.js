@@ -6,7 +6,7 @@ import {thunk} from 'redux-thunk'; // Corrected import
 const store = configureStore({
   reducer: {
     weather: weatherReducer,
-    auth: authReducer, // Register your reducers
+    auth: authReducer, // Register reducers
   },
   middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(thunk), // Apply redux-thunk
 });

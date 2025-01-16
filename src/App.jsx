@@ -9,7 +9,6 @@ import { TiWeatherPartlySunny } from "react-icons/ti";
 import { useDispatch, useSelector } from 'react-redux';
 import {fetchWeather} from './redux/slice/weatherSlice';
 import Swal from "sweetalert2";
-import './App.css'
 import LogoutButton from './components/LogoutButton';
 
 function App() {
@@ -141,6 +140,7 @@ function App() {
       setPriority(e.target.value);
     };
     
+    //Filtering Tasks based on priority
     const filteredTasks = tasks
     .filter((task) => (filter === "all" ? true : task.priority === filter))
     .sort((a, b) => {
