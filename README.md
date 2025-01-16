@@ -10,6 +10,7 @@ This project is a **Todo App** built with React and Vite. It allows users to cre
 - **👁️ View Tasks**: Display all added tasks in a list format.
 - **🗑️ Delete Task**: Each task has a delete button that removes the task from the list when clicked.
 - **🎯 Task Prioritization**: Users can set priorities for tasks (e.g., High, Medium, Low) and display them accordingly.
+- **🌦️ Weather Integration: When adding an outdoor task, the app fetches and displays real-time weather data for the user's city using Redux Thunk.
 - **💾 Persistent Storage**: Uses local storage or session storage to save tasks and authentication status, ensuring data persistence across browser sessions.
 
 ### 🛠️ Prerequisites
