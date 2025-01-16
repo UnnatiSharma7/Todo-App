@@ -46,24 +46,6 @@ This project is a **Todo App** built with React and Vite. It allows users to cre
 4. **🌐 Open in Browser:**
    Navigate to the URL displayed in the terminal (e.g., `http://localhost:5173`) in your web browser.
 
----
-
-## 🗂️ File Structure
-
-```
-.
-├── public
-│   ├── index.html        # Main HTML template
-├── src
-│   ├── components        # React components
-│   ├── App.jsx           # Main App component
-│   ├── main.jsx          # Entry point for React
-│   ├── styles.css        # Global styles
-├── package.json          # Project dependencies and scripts
-```
-
----
-
 ## 🛡️ Usage
 
 1. **🖊️ Add a Task:**
@@ -83,25 +65,6 @@ This project is a **Todo App** built with React and Vite. It allows users to cre
 
 ---
 
-## 🔮 Future Improvements
-
-1. **✏️ Edit Task:**
-
-   - Add functionality to edit tasks.
-
-2. **🗑️ Task Deletion:**
-
-   - Allow users to delete tasks.
-
-3. **🔍 Filter Tasks:**
-
-   - Enable filtering tasks by priority or type.
-
-5. **📱 Responsive Design:**
-
-   - Improve styling for better usability on mobile devices.
-
----
 
 ## 📸 Screenshots
 
