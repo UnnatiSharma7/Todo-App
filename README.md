@@ -70,8 +70,8 @@ This project is a **Todo App** built with React and Vite. It allows users to cre
 
 ### Example Screenshot
 
-<img width="2519" height="1262" alt="image" src="https://github.com/user-attachments/assets/b10afda2-b684-4448-8f6b-6d8c1f4a931e" />
-
+<img width="2535" height="1116" alt="image" src="https://github.com/user-attachments/assets/5bac2f20-67d0-4aeb-bd9f-ff13cd787be4" />
+<img width="2506" height="1120" alt="image" src="https://github.com/user-attachments/assets/91466dca-19b1-4887-89c3-a8ec0b0496e6" />
 ---
 
 ## 📜 License
